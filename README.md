@@ -6,4 +6,5 @@ The mission of this project is to create some image segmentation models on the C
 * Exploratory Data Analysis with the datasets.
 * Use a UNET model built from scratch for segmentation.
 * Use three pretrained Models Vgg-Unet, Unet-mini, Mobilenet and compare their performance.
+* Treat the Mobilenet segnet model under augmentation.
 * Deploy the Mobilenet model as Flask. 
